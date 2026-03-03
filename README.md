@@ -1,23 +1,23 @@
 # Hi, I'm Moisés 👋
 
-💻 Full Stack Developer | Cloud Enthusiast  
+💻 Full Stack Developer | Cloud & Architecture Enthusiast  
 🎓 IT Engineering Student  
-🚀 Passionate about building scalable web applications  
+🚀 Focused on building scalable and well-structured web applications  
 
 ---
 
 ## 🧠 About Me
 
-I specialize in:
+I specialize in designing and building:
 
-- ⚡ Next.js & React
-- 🔐 Authentication & Authorization (JWT, RBAC)
-- ☁️ Cloud Architecture & Deployments
-- 🗄️ Supabase & PostgreSQL
-- 🧪 Application Testing
-- 📊 Agile Methodologies (Scrum)
+- ⚡ Modern web apps with Next.js & React
+- 🔐 Secure authentication systems (JWT, RBAC)
+- ☁️ Cloud-based architectures & deployments
+- 🗄️ Supabase & PostgreSQL backends
+- 🧪 Testing and application reliability
+- 📊 Agile development using Scrum
 
-Currently working on scalable architectures and modern SaaS-style applications.
+I enjoy thinking about system design, scalability, and clean architecture.
 
 ---
 
@@ -43,20 +43,14 @@ Currently working on scalable architectures and modern SaaS-style applications.
 
 ## 📌 Current Focus
 
-- Improving UI/UX in modern dashboards
-- Clean Architecture patterns
-- Role-based access systems
-- Testing web applications
-- Learning more about Cloud Providers
+- Clean Architecture & Layered Systems
+- SaaS-style applications
+- Role-based access control systems
+- Improving UI/UX in dashboards
+- Expanding Cloud knowledge
 
 ---
 
-## 📫 Connect with me
-
-- LinkedIn: (pon aquí tu link)
-- Email: (opcional)
-
----
 ## 📊 GitHub Stats
 
 ![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaldas1-4514&show_icons=true&theme=github_dark)
@@ -65,4 +59,12 @@ Currently working on scalable architectures and modern SaaS-style applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaldas1-4514&layout=compact&theme=github_dark)
 
-⭐ “Build simple. Build scalable. Build well.”
+---
+
+## 📫 Connect with me
+
+- LinkedIn: (pon aquí tu link)
+
+---
+
+⭐ “Focused on building practical, scalable, and well-structured systems.”
