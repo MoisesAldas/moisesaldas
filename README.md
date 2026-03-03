@@ -57,5 +57,12 @@ Currently working on scalable architectures and modern SaaS-style applications.
 - Email: (opcional)
 
 ---
+## 📊 GitHub Stats
+
+![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaldas1-4514&show_icons=true&theme=github_dark)
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaldas1-4514&layout=compact&theme=github_dark)
 
 ⭐ “Build simple. Build scalable. Build well.”
