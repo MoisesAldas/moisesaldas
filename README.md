@@ -50,6 +50,9 @@ I enjoy thinking about system design, scalability, and clean architecture.
 - Expanding Cloud knowledge
 
 ---
+## 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,supabase,postgres,docker,vercel,git,github,php)
 
 ## 📊 GitHub Stats
 
