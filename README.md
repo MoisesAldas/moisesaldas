@@ -56,11 +56,11 @@ I enjoy thinking about system design, scalability, and clean architecture.
 
 ## 📊 GitHub Stats
 
-![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaldas1-4514&show_icons=true&theme=github_dark)
+![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesAldas&show_icons=true&theme=github_dark)
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaldas1-4514&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAldas&layout=compact&theme=github_dark)
 
 ---
 
