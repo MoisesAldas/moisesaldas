@@ -66,7 +66,7 @@ I enjoy thinking about system design, scalability, and clean architecture.
 
 ## 📫 Connect with me
 
-- LinkedIn: (pon aquí tu link)
+- LinkedIn: https://www.linkedin.com/in/moises-aldas-moya-6183b01b7/
 
 ---
 
