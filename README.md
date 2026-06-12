@@ -1,7 +1,7 @@
 # Hi, I'm Moisés 👋
 
 💻 Full Stack Developer | Cloud & Architecture Enthusiast  
-🎓 IT Engineering Student  
+🎓 IT Engineering   
 🚀 Focused on building scalable and well-structured web applications  
 
 ---
