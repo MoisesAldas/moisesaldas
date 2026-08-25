@@ -182,13 +182,10 @@
 <!-- ========================================== -->
 <div align="center">
   <h2>⚡ Live Performance Telemetry</h2>
-  <br/>
+  <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoisesAldas&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAldas&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=MoisesAldas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoisesAldas&theme=tokyonight" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoisesAldas&theme=tokyonight" width="49%" />
   </p>
 </div>
 
